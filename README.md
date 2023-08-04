@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on <span style="font-weight: bold"> Java, Html-Css-Javascript, Spring Boot </span>
+🔭 I’m currently working on  **Java,Spring Boot, Html-Css-Javascript, Boostrap, TailwindCSS**
 
 
 ## 🌐 Socials:
